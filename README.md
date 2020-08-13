@@ -7,4 +7,4 @@ of each country's data
 ## Preview of the page
 ![Alt text](https://github.com/mattDuque/COVID-19-tracker/blob/master/img.PNG))
 
-### Credits to [Clever Programmer](https://github.com/CleverProgrammers/react-covid-tracker) for the mbase material 
+##### Credits to [Clever Programmer](https://github.com/CleverProgrammers/react-covid-tracker) for the base material 
